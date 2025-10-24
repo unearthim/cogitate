@@ -1,0 +1,8 @@
+{
+  "name": "metamorphosing-im",
+  "version": "1.0.0",
+  "description": "Vercel backend for metamorphosing.im",
+  "dependencies": {
+    "@google-cloud/vertexai": "^1.10.0"
+  }
+}
